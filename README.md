@@ -1,5 +1,5 @@
 # Timeline Buttons
-Add Buttons From Timeline Editor to Other Animation Related Editor
+Add Buttons From Timeline Editor to Other Animation Related Editor, Making it easier to use
 
 The Play Button, Pause Button, Autokey Options, and Frame Range are Added
 
